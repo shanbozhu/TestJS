@@ -10,7 +10,7 @@
 
 `npm i -g typescript`
 
-typescript：用来编译TS代码，提供`tsc`命令，实现TS转化为JS。
+typescript：用来编译TS代码，提供`tsc`命令，将TS转化为JS。
 
 ### 全局安装ts-node
 
