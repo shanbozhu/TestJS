@@ -24,15 +24,15 @@ node test.js
 
 `npm i -g ts-node`
 
-ts-node：提供`ts-node`命令。直接执行ts代码。
+ts-node：提供`ts-node`命令。直接执行ts。
 
 ```
 // ts-node执行ts
 ts-node test.ts
 ```
 
-解释：`ts-node`命令在内部偷偷的将ts编译为js，然后再运行js代码。
+解释：`ts-node`命令在内部偷偷的将ts编译为js，然后再执行js。
 
-原因：Node.js/浏览器，只识别js代码，不识别ts代码。需要先将ts代码编译为js代码，然后才能运行。
+原因：Node.js/浏览器，只识别js，不识别ts。需要先将ts编译为js，然后才能执行js。
 
 参考文档：https://www.jianshu.com/p/5f5cdcbc8b00
