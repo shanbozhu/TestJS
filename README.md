@@ -10,7 +10,7 @@
 
 `npm i -g typescript`
 
-typescript：用来编译ts代码，提供`tsc`命令，将ts编译为js。
+typescript：提供`tsc`命令，将ts编译为js。
 
 ```
 // 将ts编译为js
@@ -24,7 +24,7 @@ node test.js
 
 `npm i -g ts-node`
 
-ts-node：提供`ts-node`命令。直接执行ts。
+ts-node：提供`ts-node`命令，直接执行ts。
 
 ```
 // ts-node执行ts
