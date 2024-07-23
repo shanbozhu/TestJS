@@ -1,12 +1,12 @@
 # TestJS
 
-### 安装node
+### 1. 安装node
 
 `brew install node`
 
 安装`node.js`时会自动安装`npm`
 
-### 全局安装typescript
+### 2. 全局安装typescript
 
 `npm i -g typescript`
 
@@ -20,7 +20,7 @@ tsc test.ts
 node test.js
 ```
 
-### 全局安装ts-node
+### 3. 全局安装ts-node
 
 `npm i -g ts-node`
 
